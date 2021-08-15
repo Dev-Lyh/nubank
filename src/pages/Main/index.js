@@ -81,11 +81,11 @@ export default function Main() {
             </CardHeader>
             <CardContent>
               <Title>Saldo disponível</Title>
-              <Description>R$ 197.611,65</Description>
+              <Description>R$ 250.578,61</Description>
             </CardContent>
             <CardFooter>
               <Annotation>
-                Transferência de R$ 30,00 recebida de Emily Carvalho Felicio hoje às 18:00h
+                Transferência de R$ 30,00 recebida de Eduardo Felicio hoje às 18:00h
               </Annotation>
             </CardFooter>
           </Card>

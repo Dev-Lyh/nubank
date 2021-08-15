@@ -13,7 +13,7 @@ export default function Header() {
     <Container>
       <Top>
         <Logo source={logo} />
-        <Title>Emily</Title>
+        <Title>Silvana Carvalho dos Santos Felicio</Title>
       </Top>
       <Icon name="keyboard-arrow-down" size={20} color="#fff" />
     </Container>
